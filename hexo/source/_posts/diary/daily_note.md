@@ -61,6 +61,7 @@ title: Diary
 5. ag
 	sudo apt-get install silversearcher-ag
 6. 命令行滚动限制取消以及透明背景
+7. 默认sublime打开文件：sudo  vi /etc/gnome/defaults.list ，将gedit都替换为sublime_text,:%s/gedit/sublime_text/g
 ## 知识汇总
 - C/C++/JAVA
 - make/bash/gcc/gdb/sed/awk
